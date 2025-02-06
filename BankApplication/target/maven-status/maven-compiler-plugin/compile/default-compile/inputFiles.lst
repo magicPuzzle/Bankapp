@@ -1,0 +1,8 @@
+/Users/a00/Documents/workspace-spring-tool-suite-4-4.26.0.RELEASE/BankApplication/src/main/java/com/bankapp/BankApplication.java
+/Users/a00/Documents/workspace-spring-tool-suite-4-4.26.0.RELEASE/BankApplication/src/main/java/com/bankapp/config/SecurityConfig.java
+/Users/a00/Documents/workspace-spring-tool-suite-4-4.26.0.RELEASE/BankApplication/src/main/java/com/bankapp/controller/BankController.java
+/Users/a00/Documents/workspace-spring-tool-suite-4-4.26.0.RELEASE/BankApplication/src/main/java/com/bankapp/model/Account.java
+/Users/a00/Documents/workspace-spring-tool-suite-4-4.26.0.RELEASE/BankApplication/src/main/java/com/bankapp/model/Transaction.java
+/Users/a00/Documents/workspace-spring-tool-suite-4-4.26.0.RELEASE/BankApplication/src/main/java/com/bankapp/repository/AccountRepository.java
+/Users/a00/Documents/workspace-spring-tool-suite-4-4.26.0.RELEASE/BankApplication/src/main/java/com/bankapp/repository/TransactionRepository.java
+/Users/a00/Documents/workspace-spring-tool-suite-4-4.26.0.RELEASE/BankApplication/src/main/java/com/bankapp/service/AccountService.java
